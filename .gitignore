@@ -1,0 +1,7 @@
+docs
+main
+.idea/
+.env
+.DS_Store
+
+ipv4_en.ipdb
